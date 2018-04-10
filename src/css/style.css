@@ -37,3 +37,6 @@ body {
   color: #fff; }
   #author .card:hover .fa {
     color: #fff; }
+
+.input-group-text {
+  min-width: 45px; }
